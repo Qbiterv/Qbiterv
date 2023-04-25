@@ -4,7 +4,7 @@ I'm Jakub a teenage programmer from Poland.
 
 
 ## A little bit about me...
-👩‍💻 I have experience in few languages but still i'm learning.
+👩‍💻 I have experience in few languages but i'm still learning.
 
 ![js](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![c++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=blue)
