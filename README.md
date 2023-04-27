@@ -9,7 +9,8 @@ I'm Jakub a teenage programmer from Poland.
 ![js](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=yellow)
 ![c++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=blue)
 ![html5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=orange)
-![html5](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=blue)
+![css3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=blue)
+![mariadb](https://img.shields.io/badge/MariaDB-24478f?style=for-the-badge&logo=mariadb&logoColor=white)
 
 ## 🔗 Socials
 [![discord](https://img.shields.io/badge/QBITER%238020-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/385119411427606541)
