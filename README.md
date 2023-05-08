@@ -3,7 +3,7 @@
 I'm Jakub a teenage programmer from Poland. 
 
 ## Little about me...
-👩‍💻 I have experience in few languages but still i'm learning.
+👩‍💻 I have experience in few languages but i'm still learning.
 
 
 #### Stack;
