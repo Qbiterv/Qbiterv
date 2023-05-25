@@ -4,6 +4,7 @@ I'm Jakub a teenage programmer from Poland.
 
 ## Little about me...
 👩‍💻 I have experience in few languages but i'm still learning.
+🎮 Want to be a GameDev.
 
 
 #### Stack;
