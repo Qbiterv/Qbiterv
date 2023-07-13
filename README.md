@@ -5,8 +5,6 @@ I'm Jakub a teenage programmer from Poland.
 ## Little about me...
 👩‍💻 I have experience in few languages but i'm still learning.
 
-🎮 Want to be a GameDev.
-
 
 #### Stack;
 ![js](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript)
