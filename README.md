@@ -8,7 +8,7 @@ I'm Jakub a teenage programmer from Poland.
 
 #### Stack;
 ![c++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=blue)
-![c#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=node&logoColor=blue)
+![c#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=blue)
 ![js](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript)
 ![ts](https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript)
 ![php](https://img.shields.io/badge/php-000000?style=for-the-badge&logo=php)
