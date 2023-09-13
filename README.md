@@ -19,6 +19,8 @@ I'm Jakub a teenage programmer from Poland.
 -----
 
 #### Tech;
+![unity](https://img.shields.io/badge/unity-262626?style=for-the-badge&logo=unity)
+![sfml](https://img.shields.io/badge/sfml-262626?style=for-the-badge&logo=sfml)
 ![react](https://img.shields.io/badge/react-262626?style=for-the-badge&logo=react)
 ![nextjs](https://img.shields.io/badge/next-0d0d0d?style=for-the-badge&logo=next.js)
 ![xampp](https://img.shields.io/badge/xampp-1a0f00?style=for-the-badge&logo=xampp)
