@@ -10,16 +10,16 @@ I'm Jakub a teenage programmer from Poland.
 # Main...
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![ts](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 # Others..
 ![c++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=blue)
-![c#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=blue)
-![js](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript)
+![c#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 
-![php](https://img.shields.io/badge/php-000000?style=for-the-badge&logo=php)
-![mysql](https://img.shields.io/badge/mysql-000000?style=for-the-badge&logo=mysql)
-![html5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5)
-![css3](https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=blue)
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![html5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![css3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 
 -----
 
