@@ -8,8 +8,8 @@ I'm Jakub a teenage programmer from Poland.
 
 #### Stack;
 # Main...
-![java]([https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=java&logoColor=orange](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white))
-![ts]([https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white))
+![java](https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=java&logoColor=orange)
+![ts](https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript)
 
 # Others..
 ![c++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=blue)
