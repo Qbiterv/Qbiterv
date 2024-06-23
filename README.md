@@ -7,7 +7,7 @@ I'm Jakub a teenage programmer from Poland.
 
 
 #### Stack;
-# Main...
+#### Main...
 ![java](https://img.shields.io/badge/JAVA-262626?style=for-the-badge&logo=openjdk&logoColor=orange)
 ![ts](https://img.shields.io/badge/typescript-262626?style=for-the-badge&logo=typescript)
 ![mysql](https://img.shields.io/badge/mysql-262626?style=for-the-badge&logo=mysql)
