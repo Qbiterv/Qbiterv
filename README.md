@@ -7,6 +7,7 @@ I'm Jakub a teenage programmer from Poland.
 
 
 #### Stack;
+![java](https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=java&logoColor=orange)
 ![c++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=blue)
 ![c#](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp&logoColor=blue)
 ![js](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript)
@@ -27,5 +28,3 @@ I'm Jakub a teenage programmer from Poland.
 
 ## 🔗 Socials
 [![discord](https://img.shields.io/badge/qbiter-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/385119411427606541)
-[![discord](https://img.shields.io/badge/qbiter_-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/772425201568055316)
-[![spotify](https://img.shields.io/badge/QBITER-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/a56r3hj0uz08zxqsdnjg0rio4?si=60176d56daf3407c)
