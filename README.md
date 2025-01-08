@@ -9,7 +9,6 @@
 🤝 Hard-working on private project associated with Minecraft...
 
 #### Stack;
-##### Main...
 ![java](https://img.shields.io/badge/JAVA-262626?style=for-the-badge&logo=openjdk&logoColor=orange)
 ![mariadb](https://img.shields.io/badge/mariadb-2e2d64?style=for-the-badge&logo=mariadb)
 
