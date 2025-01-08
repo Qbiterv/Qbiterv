@@ -1,9 +1,7 @@
 
 # It's me.. Qbiter 👋
 👩‍💻 I'm Jakub a teenage programmer from Poland.
-
 🤙 I have experience in few languages but i'm still learning.
-
 🎯 My main goal is to master **Java** and **Networks** skills
 
 🤝 Hard-working on private project associated with Minecraft...
