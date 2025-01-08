@@ -13,7 +13,7 @@
 
 ##### Others..
 ![c++](https://img.shields.io/badge/C++-262626?style=for-the-badge&logo=cplusplus&logoColor=blue)
-![c#](https://img.shields.io/badge/C%23-262626?style=for-the-badge&logo=csharp&logoColor=blue)
+![c#](https://img.shields.io/badge/C%23-262626?style=for-the-badge&logo=.net&logoColor=blue)
 ![ts](https://img.shields.io/badge/typescript-262626?style=for-the-badge&logo=typescript)
 
 ![python](https://img.shields.io/badge/PYTHON-262626?style=for-the-badge&logo=python)
