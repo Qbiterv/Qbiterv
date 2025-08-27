@@ -7,7 +7,6 @@
 🎯 My main goal is to master **Java** and **Networks** skills
 
 🤝 Hard-working on private project associated with Minecraft...
- - Trying to push weekly 📅
 
 #### Stack;
 ![java](https://img.shields.io/badge/JAVA-orange?style=for-the-badge&logo=openjdk&logoColor=white)
