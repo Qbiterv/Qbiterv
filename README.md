@@ -1,35 +1,46 @@
+<div align="center">
 
-# It's me.. Qbiter 👋
-👩‍💻 I'm Jakub a teenage programmer from Poland.
+<img src="assets/header.svg" alt="Jakub Wawrzynowicz (Qbiter): full-stack developer with a Minecraft soul" width="100%" />
 
-🤙 I have experience in few languages but i'm still learning.
+<br />
 
-🎯 My main goal is to master **Java** and **Networks** skills
+<a href="https://qbiter.xyz"><img src="assets/pill-web.svg" alt="qbiter.xyz" height="42" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/jakub-wawrzynowicz-964038244"><img src="assets/pill-linkedin.svg" alt="LinkedIn" height="42" /></a>&nbsp;
+<a href="https://discord.com/users/385119411427606541"><img src="assets/pill-discord.svg" alt="Discord: qbiter" height="42" /></a>
 
-🤝 Hard-working on private project associated with Minecraft...
+</div>
 
-#### Stack;
-![java](https://img.shields.io/badge/JAVA-orange?style=for-the-badge&logo=openjdk&logoColor=white)
-![mariadb](https://img.shields.io/badge/mariadb-2e2d64?style=for-the-badge&logo=mariadb)
+<br />
 
-##### Others..
-![c++](https://img.shields.io/badge/C++-262626?style=for-the-badge&logo=cplusplus&logoColor=blue)
-![c#](https://img.shields.io/badge/C%23-262626?style=for-the-badge&logo=.net&logoColor=blue)
-![ts](https://img.shields.io/badge/typescript-262626?style=for-the-badge&logo=typescript)
+<img src="assets/h-about.svg" alt="about" width="100%" />
 
-![python](https://img.shields.io/badge/PYTHON-262626?style=for-the-badge&logo=python)
-![js](https://img.shields.io/badge/JAVASCRIPT-262626?style=for-the-badge&logo=javascript)
-![php](https://img.shields.io/badge/php-262626?style=for-the-badge&logo=php)
-![html5](https://img.shields.io/badge/HTML5-262626?style=for-the-badge&logo=html5)
-![css3](https://img.shields.io/badge/CSS3-262626?style=for-the-badge&logo=css3&logoColor=blue)
+<img src="assets/about.svg" alt="About Jakub: full-stack developer from Poland working with Java, TypeScript, Spring Boot, Next.js and Supabase, member of EternalCode Team, with a love for Minecraft" width="100%" />
 
------
+<br />
 
-#### Tech;
-![unity](https://img.shields.io/badge/unity-262626?style=for-the-badge&logo=unity)
-![spring-boot](https://img.shields.io/badge/spring-262626?style=for-the-badge&logo=spring)
-![react](https://img.shields.io/badge/react-262626?style=for-the-badge&logo=react)
-![nextjs](https://img.shields.io/badge/next-0d0d0d?style=for-the-badge&logo=next.js)
+I'm a full-stack developer from Poland, studying programming at a technical school. I like building things end to end, from Java backends to TypeScript frontends, and Minecraft is still the thing I love most.
 
-## 🔗 Contact
-[![discord](https://img.shields.io/badge/qbiter-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/385119411427606541)
+<br />
+
+<img src="assets/h-highlights.svg" alt="highlights" width="100%" />
+
+<img src="assets/highlights.svg" alt="Highlights: Technology Innovation Olympiad finalist, academic scholarship, EternalCode Team member, internships in production codebases" width="100%" />
+
+<br />
+
+<img src="assets/h-stack.svg" alt="stack" width="100%" />
+
+<img src="assets/stack.svg" alt="Tech stack: Java and TypeScript at the core; also Python, JavaScript, C++, C#, PHP, HTML and CSS; Spring Boot, React, Next.js, Unity; MariaDB, Supabase, Docker, Vercel, Cloudflare, Git" width="100%" />
+
+<br />
+
+<img src="assets/h-opensource.svg" alt="open-source" width="100%" />
+
+<a href="https://github.com/EternalCodeTeam/EternalCore"><img src="assets/repo-eternalcore.svg" alt="EternalCore: a modern, actively maintained alternative to EssentialsX" width="49%" /></a>
+<a href="https://github.com/EternalCodeTeam/EternalEconomy"><img src="assets/repo-eternaleconomy.svg" alt="EternalEconomy: economy system with balance tracking and payment limits" width="49%" /></a>
+
+I'm part of [EternalCode Team](https://github.com/EternalCodeTeam), where we build open-source Minecraft plugins. Smaller things of my own: [pizzeria](https://github.com/Qbiterv/pizzeria) (Spring Boot, React, Docker) and [library-api](https://github.com/Qbiterv/library-api) (Spring Boot).
+
+<br />
+
+<img src="assets/footer.svg" alt="Thanks for stopping by" width="100%" />
