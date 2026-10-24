@@ -8,7 +8,7 @@
 <a href="https://www.linkedin.com/in/jakub-wawrzynowicz-964038244"><img src="assets/pill-linkedin.svg" alt="LinkedIn" height="42" /></a>&nbsp;
 <a href="https://discord.com/users/385119411427606541"><img src="assets/pill-discord.svg" alt="Discord: qbiter" height="42" /></a>
 
-</div>
+</div> 
 
 <br />
 
